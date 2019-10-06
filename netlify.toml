@@ -1,0 +1,4 @@
+[build]
+base = "e-commerce/"
+publish = "e-commerce/build/"
+command = "npm run build"
