@@ -4,5 +4,11 @@
         "Longsleeve",
         "browserslist",
         "signin"
+    ],
+    "cSpell.ignoreWords": [
+        "component",
+        "firestore",
+        "unmount",
+        "will"
     ]
 }
